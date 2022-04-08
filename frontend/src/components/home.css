@@ -1,0 +1,39 @@
+.main-container{
+ 
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+  }
+
+
+
+.main-container{
+  background-image: url("https://images2.alphacoders.com/109/1090103.jpg");
+}
+
+
+.headhome{
+  
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:red;
+    text-align: center;
+    font-size: 100;
+    margin-bottom: 23rem;
+  }
+  .registerbutton{
+    margin-top: 225px; 
+    margin-right: 750px;
+    padding:30px;
+    background-color:gray;
+  }
+
+  .loginbutton{
+    margin-top: 225px; 
+    margin-left: 750px;
+    padding:30px;
+    background-color:gray;
+  }
